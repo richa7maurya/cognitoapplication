@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263246225537",
+    "firebase_url": "https://cognitoapplication.firebaseio.com",
+    "project_id": "cognitoapplication",
+    "storage_bucket": "cognitoapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263246225537:android:da294979462a10dc0a6d80",
+        "android_client_info": {
+          "package_name": "com.example.cognitoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263246225537-ae61sqlr5kgon66n8mnb2iemnvjbgee1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cognitoapplication",
+            "certificate_hash": "160bf49b4343843d6b3848665e18112257b0930c"
+          }
+        },
+        {
+          "client_id": "263246225537-8i2kk6rccu7pk5gsp4ufn6tvjbvv75v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJIFohNb1iWn7AiGEASzNJil1kdZEiyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263246225537-8i2kk6rccu7pk5gsp4ufn6tvjbvv75v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
